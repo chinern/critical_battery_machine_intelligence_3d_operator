@@ -10,3 +10,7 @@ https://drive.google.com/file/d/19esbRFTlYFSTn3XN8W1RYimzEuq1pd2s/view?usp=shari
 
 Calibration mechanism:
 Code to machine 3d organisation of vector placement
+
+
+updated findings - the python equivalent algorithmic vector program:
+https://drive.google.com/file/d/1WfoNzZkSTZbV2KeQIm5PZU6sTKG1d33L/view?usp=sharing
