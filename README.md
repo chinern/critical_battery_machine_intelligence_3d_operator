@@ -14,3 +14,6 @@ Code to machine 3d organisation of vector placement
 
 updated findings - the python equivalent algorithmic vector program:
 https://drive.google.com/file/d/1WfoNzZkSTZbV2KeQIm5PZU6sTKG1d33L/view?usp=sharing
+
+For further references:
+https://drive.google.com/file/d/1jhQy6V3TJmibtj93kQ37qOgQi3Xk0RNI/view?usp=drivesdk
