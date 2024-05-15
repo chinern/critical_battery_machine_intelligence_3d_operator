@@ -18,9 +18,9 @@ print(critical_machine_intelligence)
 lst = [1,3,5,7,11...]
 //1the C++ equivalent manually typed  sequence of prime numbers
 // using object orientated object
-//vector oriented object manipulation functions
+//vector oriented object manipulation functions(3d vector programming)
 
-//2using Go api reliance
+//2using Go api reliance (Go data sets- lists, manipulation)
 
 //3Java Pointers
 
