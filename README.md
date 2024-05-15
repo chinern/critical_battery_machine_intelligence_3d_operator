@@ -1,4 +1,4 @@
-# critical_battery_machine_intelligence_3d_operator
+# critical_battery_machine_intelligence_3d_operator_vector_algorithm
 Includes the explanations of prime and composite number theorems
 
 Can also check out my inspiration and how i got here:
